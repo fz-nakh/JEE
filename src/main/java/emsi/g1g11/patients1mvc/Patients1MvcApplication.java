@@ -15,11 +15,11 @@ public class Patients1MvcApplication {
     public static void main(String[] args) {
         SpringApplication.run(Patients1MvcApplication.class, args);
     }
-    @Bean
+    //@Bean
     CommandLineRunner commandLineRunner(PatientRepository patientRepository){
 return args -> {
 
-    patientRepository.save(new Patient(null,"fati",new Date(),false,12));
+    patientRepository.save(new Patient(null,"fati",new Date(),false,142));
     patientRepository.save(new Patient(null,"fati1",new Date(),true,121));
     patientRepository.save(new Patient(null,"fati2",new Date(),false,122));
     patientRepository.save(new Patient(null,"fati3",new Date(),false,123));
