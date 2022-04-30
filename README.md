@@ -1,7 +1,6 @@
 # JEE
-![image](https://user-images.githubusercontent.com/74434162/166102713-25d235fd-5026-4097-966b-ffd41c06111a.png)
 
-
+<img src="https://user-images.githubusercontent.com/74434162/166102713-25d235fd-5026-4097-966b-ffd41c06111a.png"  align="center" />
 
 
 
@@ -73,4 +72,62 @@ II.	Réalisation de l’application
 	Création du projet :
 
 Pour créer notre projet, on va choisir le langage JEE
+
+
+
+
+<h1>Authentifiation</h1>
+<h4 color=blue> Correct </h4>
+
+![image](https://user-images.githubusercontent.com/74434162/166125632-96321dea-154a-4c20-81e5-06cc0d616a00.png)
+<h4 color=red> InCorrect </h4>
+![image](https://user-images.githubusercontent.com/74434162/166125640-3eb96bad-15c3-40e5-b5fb-6ff06a4daff2.png)
+<h1>Partie Admin</h1>
+![image](https://user-images.githubusercontent.com/74434162/166126029-3bf78485-b1e9-4fc1-89d1-a176dd50a3e9.png)
+<h1>Ajouter Patient</h1>
+![image](https://user-images.githubusercontent.com/74434162/166126217-ae9f39a5-f440-4f9c-8f3a-23a75751c7fe.png)
+
+<h1>Modifier un patient</h1>
+![image](https://user-images.githubusercontent.com/74434162/166126201-2d85dd5a-3636-4a64-8653-1a1dae06524c.png)
+<h1>Chercher Un Patient</h1>
+![image](https://user-images.githubusercontent.com/74434162/166126234-3854a698-b9c6-40d2-880b-8be6c480d22f.png)
+<h1>Partie Utlisateur</h1>
+<h3>Page d'accueil</h3>
+![image](https://user-images.githubusercontent.com/74434162/166126273-ac8eb361-d79d-4015-983d-0c7a84453c67.png)
+<h3>Rechercher</h3>
+![image](https://user-images.githubusercontent.com/74434162/166126307-49cff0b2-6b77-410e-8b7c-c644928ec5a3.png)
+
+<h1>2.	Langage et logiciel</h1>
+
+<h2>A.	Langages</h2>
+
+	JEE
+
+JEE (Java Entreprise Edition) est la version entreprise de la plate-forme "Java" qui se compose de l'environnement "JSE" ainsi que de nombreuses API et composants destinés à une utilisation "côté serveur" au sein du système d'information de l'entreprise. Il s'agit donc d'une évolution du Java.
+
+![image](https://user-images.githubusercontent.com/74434162/166126336-65852bc7-f846-4fe6-9291-ff66210b55a3.png)
+
+
+	HTML
+Le HyperText Markup Language, généralement abrégé HTML ou dans sa dernière version HTML5, est le langage de balisage conçu pour représenter les pages web.
+![image](https://user-images.githubusercontent.com/74434162/166126400-7e2f30f3-ca2d-4aab-8807-18007838bfc0.png)
+
+<h2>B.	Logiciels :</h2>
+
+	 IntelliJ
+
+IntelliJ IDEA également appelé « IntelliJ », « IDEA » ou « IDJ » est un environnement de développement intégré destiné au développement de logiciels informatiques reposant sur la technologie Java
+
+  
+	XAMPP
+
+XAMPP est un ensemble de logiciels permettant de mettre en place un serveur Web local, un serveur FTP et un serveur de messagerie électronique.Il s'agit d'une distribution de logiciels libres (X (cross) Apache MariaDB Perl PHP) offrant une bonne souplesse d'utilisation
+![image](https://user-images.githubusercontent.com/74434162/166126432-4da1a641-dc18-4d97-a81e-4346e025335e.png)
+
+
+
+
+
+
+
 
