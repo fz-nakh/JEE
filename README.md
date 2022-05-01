@@ -77,24 +77,37 @@ Pour créer notre projet, on va choisir le langage JEE
 
 
 <h1>Authentifiation</h1>
-<h4 color=blue> Correct </h4>
+<h4> Correct </h4>
 
 ![image](https://user-images.githubusercontent.com/74434162/166125632-96321dea-154a-4c20-81e5-06cc0d616a00.png)
-<h4 color=red> InCorrect </h4>
+
+<h4> InCorrect </h4>
+
 ![image](https://user-images.githubusercontent.com/74434162/166126744-6a466685-84b5-4884-9e53-ea90aa020913.png)
+
 <h1>Partie Admin</h1>
+
 ![image](https://user-images.githubusercontent.com/74434162/166126543-58e91d54-1458-449b-8873-df76c394d07b.png)
+
 <h1>Ajouter Patient</h1>
+
 ![image](https://user-images.githubusercontent.com/74434162/166126549-c006f874-44b2-4f1c-a7c9-d841ace3c7df.png)
 
 <h1>Modifier un patient</h1>
+
 ![image](https://user-images.githubusercontent.com/74434162/166126558-38453add-ca1a-4ca7-bd06-8e420447121b.png)
+
 <h1>Chercher Un Patient</h1>
+
 ![image](https://user-images.githubusercontent.com/74434162/166126565-1a663e12-105d-4ec2-b481-f784354bd811.png)
+
 <h1>Partie Utlisateur</h1>
 <h3>Page d'accueil</h3>
+
 ![image](https://user-images.githubusercontent.com/74434162/166126583-ff10bd7b-ffdb-42e7-9da4-65821ad075ad.png)
+
 <h3>Rechercher</h3>
+
 ![image](https://user-images.githubusercontent.com/74434162/166126588-bf360592-f4fc-4b28-b03e-eb82678e0df8.png)
 
 <h1>2.	Langage et logiciel</h1>
