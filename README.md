@@ -81,21 +81,21 @@ Pour créer notre projet, on va choisir le langage JEE
 
 ![image](https://user-images.githubusercontent.com/74434162/166125632-96321dea-154a-4c20-81e5-06cc0d616a00.png)
 <h4 color=red> InCorrect </h4>
-![image](https://user-images.githubusercontent.com/74434162/166125640-3eb96bad-15c3-40e5-b5fb-6ff06a4daff2.png)
+![image](https://user-images.githubusercontent.com/74434162/166126536-40357b18-385c-48ac-be34-90ccb94b7fb7.png)
 <h1>Partie Admin</h1>
-![image](https://user-images.githubusercontent.com/74434162/166126029-3bf78485-b1e9-4fc1-89d1-a176dd50a3e9.png)
+![image](https://user-images.githubusercontent.com/74434162/166126543-58e91d54-1458-449b-8873-df76c394d07b.png)
 <h1>Ajouter Patient</h1>
-![image](https://user-images.githubusercontent.com/74434162/166126217-ae9f39a5-f440-4f9c-8f3a-23a75751c7fe.png)
+![image](https://user-images.githubusercontent.com/74434162/166126549-c006f874-44b2-4f1c-a7c9-d841ace3c7df.png)
 
 <h1>Modifier un patient</h1>
-![image](https://user-images.githubusercontent.com/74434162/166126201-2d85dd5a-3636-4a64-8653-1a1dae06524c.png)
+![image](https://user-images.githubusercontent.com/74434162/166126558-38453add-ca1a-4ca7-bd06-8e420447121b.png)
 <h1>Chercher Un Patient</h1>
-![image](https://user-images.githubusercontent.com/74434162/166126234-3854a698-b9c6-40d2-880b-8be6c480d22f.png)
+![image](https://user-images.githubusercontent.com/74434162/166126565-1a663e12-105d-4ec2-b481-f784354bd811.png)
 <h1>Partie Utlisateur</h1>
 <h3>Page d'accueil</h3>
-![image](https://user-images.githubusercontent.com/74434162/166126273-ac8eb361-d79d-4015-983d-0c7a84453c67.png)
+![image](https://user-images.githubusercontent.com/74434162/166126583-ff10bd7b-ffdb-42e7-9da4-65821ad075ad.png)
 <h3>Rechercher</h3>
-![image](https://user-images.githubusercontent.com/74434162/166126307-49cff0b2-6b77-410e-8b7c-c644928ec5a3.png)
+![image](https://user-images.githubusercontent.com/74434162/166126588-bf360592-f4fc-4b28-b03e-eb82678e0df8.png)
 
 <h1>2.	Langage et logiciel</h1>
 
@@ -110,6 +110,7 @@ JEE (Java Entreprise Edition) est la version entreprise de la plate-forme "Java"
 
 	HTML
 Le HyperText Markup Language, généralement abrégé HTML ou dans sa dernière version HTML5, est le langage de balisage conçu pour représenter les pages web.
+
 ![image](https://user-images.githubusercontent.com/74434162/166126400-7e2f30f3-ca2d-4aab-8807-18007838bfc0.png)
 
 <h2>B.	Logiciels :</h2>
@@ -117,6 +118,8 @@ Le HyperText Markup Language, généralement abrégé HTML ou dans sa dernière 
 	 IntelliJ
 
 IntelliJ IDEA également appelé « IntelliJ », « IDEA » ou « IDJ » est un environnement de développement intégré destiné au développement de logiciels informatiques reposant sur la technologie Java
+![image](https://user-images.githubusercontent.com/74434162/166126602-da605288-bdf3-4009-9ade-5ee798b34f47.png)
+
 
   
 	XAMPP
