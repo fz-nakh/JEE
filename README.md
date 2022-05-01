@@ -81,7 +81,7 @@ Pour créer notre projet, on va choisir le langage JEE
 
 ![image](https://user-images.githubusercontent.com/74434162/166125632-96321dea-154a-4c20-81e5-06cc0d616a00.png)
 <h4 color=red> InCorrect </h4>
-![166126650-2a9b2da3-8d23-44fa-bc74-c681d5dcc320](https://user-images.githubusercontent.com/74434162/166126713-9094bb80-2cc2-4d3d-a799-596bf683f069.png)
+![image](https://user-images.githubusercontent.com/74434162/166126713-9094bb80-2cc2-4d3d-a799-596bf683f069.png)
 <h1>Partie Admin</h1>
 ![image](https://user-images.githubusercontent.com/74434162/166126543-58e91d54-1458-449b-8873-df76c394d07b.png)
 <h1>Ajouter Patient</h1>
